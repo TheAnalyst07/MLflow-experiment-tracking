@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/27ef2e57314e4505b8e340e7eb2ad097/artifacts
+end_time: 1762268178938
+entry_point_name: ''
+experiment_id: '712369398302942232'
+lifecycle_stage: active
+run_id: 27ef2e57314e4505b8e340e7eb2ad097
+run_name: capable-frog-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762268154859
+status: 3
+tags: []
+user_id: soumy

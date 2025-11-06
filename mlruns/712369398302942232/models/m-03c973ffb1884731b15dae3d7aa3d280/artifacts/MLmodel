@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/models/m-03c973ffb1884731b15dae3d7aa3d280/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.5.1
+model_id: m-03c973ffb1884731b15dae3d7aa3d280
+model_size_bytes: 177145
+model_uuid: m-03c973ffb1884731b15dae3d7aa3d280
+prompts: null
+run_id: 6bf4a75bbf564a9a94a85062e989f0bd
+utc_time_created: '2025-11-06 07:16:33.374289'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/5bee83e112934e5da8d5f888762b0eca/artifacts
+end_time: 1762269095290
+entry_point_name: ''
+experiment_id: '712369398302942232'
+lifecycle_stage: active
+run_id: 5bee83e112934e5da8d5f888762b0eca
+run_name: victorious-pug-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762269079841
+status: 3
+tags: []
+user_id: soumy

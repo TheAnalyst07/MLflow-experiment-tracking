@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/ebe1288d545d4f008cb2c865f0e0913f/artifacts
+deleted_time: 1762412980442
+end_time: 1762268077123
+entry_point_name: ''
+experiment_id: '712369398302942232'
+lifecycle_stage: deleted
+run_id: ebe1288d545d4f008cb2c865f0e0913f
+run_name: nimble-snail-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762268076541
+status: 4
+tags: []
+user_id: soumy

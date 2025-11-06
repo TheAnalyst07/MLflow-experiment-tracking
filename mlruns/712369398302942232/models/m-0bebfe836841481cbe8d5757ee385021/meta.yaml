@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/models/m-0bebfe836841481cbe8d5757ee385021/artifacts
+creation_timestamp: 1762412347011
+experiment_id: '712369398302942232'
+last_updated_timestamp: 1762412389807
+model_id: m-0bebfe836841481cbe8d5757ee385021
+model_type: null
+name: model
+source_run_id: f903bbc8d2e344d9a4c79a02d2d35a5f
+status: 2
+status_message: null

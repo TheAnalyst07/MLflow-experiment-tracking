@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/b36ce7900147495a95e86b94ebc1b410/artifacts
+end_time: 1762413201273
+entry_point_name: ''
+experiment_id: '712369398302942232'
+lifecycle_stage: active
+run_id: b36ce7900147495a95e86b94ebc1b410
+run_name: carefree-sloth-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762413167869
+status: 4
+tags: []
+user_id: soumy

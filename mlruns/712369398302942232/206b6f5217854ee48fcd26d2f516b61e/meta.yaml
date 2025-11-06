@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/soumy/OneDrive/Desktop/MLOps%20Series/MLflow-experiment-tracking/mlruns/712369398302942232/206b6f5217854ee48fcd26d2f516b61e/artifacts
+end_time: 1762268470860
+entry_point_name: ''
+experiment_id: '712369398302942232'
+lifecycle_stage: active
+run_id: 206b6f5217854ee48fcd26d2f516b61e
+run_name: marvelous-crane-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762268458298
+status: 3
+tags: []
+user_id: soumy
